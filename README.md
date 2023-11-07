@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### With over 5 years of experience in web development, I'm a passionate professional skilled in both Front-End and Back-End. My expertise spans HTML5, CSS, JavaScript, Bootstrap, jQuery, Vue.js, and I've worked with leading technologies like React, Node.js, Next.js, and Nest.js. I also have experience with statistical tools such as Power BI for business intelligence. If you're seeking a versatile and dedicated expert for your projects, I'm ready to contribute to your team's success.
+
 <!--
 **LuisJosueSantanaPerez/luisjosuesantanaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
